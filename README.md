@@ -1,5 +1,9 @@
 # gta6-meme-x-01 entry
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/rudypras1/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-meme-x-01/rudypras1/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 Entry repository for the make.fun bounty **"Post a GTA 6 meme on X"**
 (https://make.fun/bounty/gta6-meme-x-01).
 
